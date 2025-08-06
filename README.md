@@ -22,9 +22,9 @@ The budget is allocated to drive two primary objectives: 1) to raise awareness o
 <br>
 
 Palisade Health's database structure consists of four tables: customers, campaigns, and claims, providing information about campaign performance, customer demographics, and patient claims.
-
-![Zentra_ERD_Diagram](https://github.com/user-attachments/assets/6403cb76-4e75-45d6-907b-a645d0343c4e)
-
+<p align="center">
+<img width="868" height="602.3" alt="Palisade Health ERD" src="https://github.com/user-attachments/assets/2cf67e22-52fb-4be3-b180-37b71dc23204" />
+</p>
 </details>
 
 <details>
