@@ -40,7 +40,7 @@ Palisade Health's database structure consists of three tables: **customers, camp
   - [Signup Insights](#signup-insights)
   - [Claim Insights](#claim-insights)
 - [Recommendations](#recommendations)
-- [Caveats and Next Steps](#caveats_and_next_steps)
+- [Caveats and Next Steps](#caveats-and-next-steps)
 - [Dashboard](#dashboards)
 - [Presentation Sample](#presentation-sample)
 
