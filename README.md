@@ -128,6 +128,7 @@ Recommendations focus on two strategies: removing ineffective campaigns and real
 # Dashboard
 The dashboard can be found in Tableau Public here. This dashboard enables users to filter by Plan, State, and Campaign Type and provides insights on trends and values for marketing metrics, signup metrics, and customer claim metrics. 
 
+![Campaign Category Dashboard](https://github.com/user-attachments/assets/3e7eba93-b0c1-4fd0-9574-4269dca2ba84)
 
 # Presentation Sample
 
