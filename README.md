@@ -131,7 +131,9 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/a
 ![Campaign Category Dashboard](https://github.com/user-attachments/assets/3e7eba93-b0c1-4fd0-9574-4269dca2ba84)
 
 # Presentation Sample
-The presentation created for the marketing team walks through the insights and recommendations above and can be found [here](. Some extracts are presented below for easy viewing.
+The presentation created for the marketing team, which walks through the insights and recommendations above, can be found [here](https://docs.google.com/presentation/d/1xuh7lw9aMRK3BGRYO15oYQSXnWPKQA52/edit?usp=drive_link&ouid=108471887536222639083&rtpof=true&sd=true). For the best image quality, download the file as a PPTX from Google Slides and open it in Microsoft PowerPoint. Selected slides are presented below for easy viewing.
+![Palisade Health Thumbnail Presentation](https://github.com/user-attachments/assets/246cb09c-1eb3-4f36-88a1-fa34d263a8df)
+[Palisade Health - Recommendations Thumbnail.pdf](https://github.com/user-attachments/files/21761809/Palisade.Health.-.Recommendations.Thumbnail.pdf)
 
 
 ## Appendix
