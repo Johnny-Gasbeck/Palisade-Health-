@@ -151,7 +151,7 @@ The presentation created for the marketing team, which walks through the insight
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0941ddd7-8f63-49e9-ae56-8ad78f6ec5ed" width="799" height="417" alt="Palisade Health Recommendations Thumbnail">
+  <img src="https://github.com/user-attachments/assets/ef244b5f-6510-45a0-86ce-01859ed6b286" width="799" height="417" alt="Palisade Health Recommendations Thumbnail">
 </p>
 
 <p align="center">
