@@ -126,11 +126,12 @@ Recommendations focus on two strategies: removing ineffective campaigns and real
 - **Reduce High-Claim Cost:** Reassess targeting and messaging for **Customer Testimonial campaigns within Compare Health Coverage** to reduce the acquisition of high-claim members or adjust product offerings to better manage this segment’s cost.
 
 # Dashboard
-The dashboard can be found in Tableau Public here. This dashboard enables users to filter by Plan, State, and Campaign Type and provides insights on trends and values for marketing metrics, signup metrics, and customer claim metrics. 
+The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/johnathon.gasbeck/viz/CampaignCategoryDashboard/CampaignCategoryDashboard). This dashboard enables users to filter by Plan, State, and Campaign Type and provides insights on trends and values for marketing metrics, signup metrics, and customer claim metrics. 
 
 ![Campaign Category Dashboard](https://github.com/user-attachments/assets/3e7eba93-b0c1-4fd0-9574-4269dca2ba84)
 
 # Presentation Sample
+The presentation created for the marketing team walks through the insights and recommendations above and can be found [here](. Some extracts are presented below for easy viewing.
 
 
 ## Appendix
