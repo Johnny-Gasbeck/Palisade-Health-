@@ -13,7 +13,7 @@ Founded in **2016**, Palisade Health is a medical insurance company serving **th
 The goal of this project is to **investigate the performance of marketing campaigns at Palisade Health** and **surface recommendations for optimal budget allocation** for next year's campaigns. In addition, it involves **building visualizations** that enable the marketing team to access insights and track performance through regular reporting. 
 
 The marketing budget is allocated to drive two primary objectives: 
-1. **Raise awareness** of Palisade Health's brand across the country 
+1. **Raise awareness of Palisade Health's brand across the country**
 2. **Increase customer signups**
 
 <details>
@@ -40,9 +40,10 @@ Palisade Health's database structure consists of three tables: **customers, camp
   - [Signup Insights](#signup-insights)
   - [Claim Insights](#claim-insights)
 - [Recommendations](#recommendations)
+- [Caveats and Next Steps](#caveats_and_next_steps)
 - [Dashboard](#dashboards)
 - [Presentation Sample](#presentation-sample)
-- [Appendix](#appendix)
+
 
 </details>
 
@@ -125,6 +126,19 @@ Recommendations focus on two strategies: removing ineffective campaigns and real
 
 - **Reduce High-Claim Cost:** Reassess targeting and messaging for **Customer Testimonial campaigns within Compare Health Coverage** to reduce the acquisition of high-claim members or adjust product offerings to better manage this segment’s cost.
 
+## Caveats and Next Steps
+For improved analysis and future steps, consider the following:
+
+- **Improve data quality and availability**
+  - Include campaign start and end dates to analyze campaign performance trends over time
+  - Segment results by channel (social media, email, search) to refine channel-specific strategies
+- **Future analysis**
+  - Incorporate customer-level dimensions (plan type, state) to tailor recommendations by demographic segements
+  - Link campaign engagement data with customer claims to identify and target high-value patient segments for each plan
+- **Revisit marketing budget with team**
+  - Meet with the marketing team to explore the potential impacts of recommendations
+  - Explore [Tableau Dashboard](https://public.tableau.com/app/profile/johnathon.gasbeck/viz/CampaignCategoryDashboard/CampaignCategoryDashboard) for additional insights and recommedations by campaign category and type
+
 # Dashboard
 The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/johnathon.gasbeck/viz/CampaignCategoryDashboard/CampaignCategoryDashboard). This dashboard enables users to filter by Plan, State, and Campaign Type and provides insights on trends and values for marketing metrics, signup metrics, and customer claim metrics. 
 
@@ -132,10 +146,15 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/a
 
 # Presentation Sample
 The presentation created for the marketing team, which walks through the insights and recommendations above, can be found [here](https://docs.google.com/presentation/d/1xuh7lw9aMRK3BGRYO15oYQSXnWPKQA52/edit?usp=drive_link&ouid=108471887536222639083&rtpof=true&sd=true). For the best image quality, download the file as a PPTX from Google Slides and open it in Microsoft PowerPoint. Selected slides are presented below for easy viewing.
-![Palisade Health Thumbnail Presentation](https://github.com/user-attachments/assets/246cb09c-1eb3-4f36-88a1-fa34d263a8df)
-[Palisade Health - Recommendations Thumbnail.pdf](https://github.com/user-attachments/files/21761809/Palisade.Health.-.Recommendations.Thumbnail.pdf)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/50474954-230a-4cdf-86e0-296031bb51f3" width="799" height="417" alt="Palisade Health Presentation Thumbnail">
+</p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0941ddd7-8f63-49e9-ae56-8ad78f6ec5ed" width="799" height="417" alt="Palisade Health Recommendations Thumbnail">
+</p>
 
-## Appendix
-- Additional information on the dataset, issues with the dataset, and caveats for this analysis can be found [here](Zentra%20Dataset%20Summary,%20Issues,%20&%20Caveats.pdf)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/67f1d237-9a61-4eba-a338-3b0ed4c55ed7" width="799" height="417" alt="Palisade Health Technical Process Thumbnail">
+</p>
 
