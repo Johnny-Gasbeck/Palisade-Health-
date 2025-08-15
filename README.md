@@ -21,7 +21,7 @@ The marketing budget is allocated to drive two primary objectives:
 
 <br>
 
-Palisade Health's database structure consists of three tables: **customers, campaigns, and claims**, providing information about campaign performance, customer demographics, and patient claims.
+Palisade Health's database structure consists of three tables - **customers, campaigns, and claims** - containing information on customer demographics, campaign performance, and claim records.
 <p align="center">
 <img width="868" height="602.3" alt="Palisade Health ERD" src="https://github.com/user-attachments/assets/2cf67e22-52fb-4be3-b180-37b71dc23204" />
 </p>
@@ -62,7 +62,7 @@ To evaluate campaign performance, we focused on the following key metrics:
  
    > Average: 72K per campaign (797K total), ranging from 6K to 127K.
 
-- **Click-Through Rate (CTR)** – Percentage of viewers who clicked on the campaign link.
+- **Click-Through Rate (CTR)** – Percentage of viewers who clicked on a campaign's link out of the total number of people who viewed it.
 
    > Average: 9.5% across 8.4M impressions.
 
@@ -70,7 +70,7 @@ To evaluate campaign performance, we focused on the following key metrics:
  
    > Average: $0.04, ranging from $0.02 to $0.48.
 
-- **Signup Rate** – Percentage of viewers who signed up for a Palisade Health plan.
+- **Signup Rate** – Percentage of people who signed up for a Palisade Health plan out of the total number of people who viewed the campaign.
 
    > Average: 0.19% across 16.3K total signups.
 
@@ -86,9 +86,9 @@ While Palisade Health benefits from a **high CTR, low CPC, and low Cost per Sign
 
 - **Golden Years Security Costs:** Golden Years Security recorded the **highest cost per click (CPC) at $0.48—over 12× the average CPC of $0.04**—while generating just 6,000 clicks, the fewest among all campaign categories.
 
-- **High CPC Drivers:** Among the three categories with the highest CPCs, **Offer Announcements and COVID Awareness campaigns contributed most to the poor cost performance**.
+- **High CPC Drivers:** Among the three categories with the highest CPCs, **Offer Announcements and COVID Awareness campaigns** contributed most to the poor cost performance.
 
-- **Top CPC Efficiency:** Summer Wellness Tips campaigns achieved the **lowest CPC at $0.02**, delivering 44K clicks and 290K impressions. **Policy information campaigns were the main driver of this efficiency**.
+- **Top CPC Efficiency:** Summer Wellness Tips campaigns achieved the **lowest CPC at $0.02**, delivering 44K clicks and 290K impressions. **Policy information campaigns** were the main driver of this efficiency.
 
 - **Potential Delivery Issues:** The Family Coverage Plan campaign recorded **1.1M impressions, but zero clicks**, suggesting possible data errors or campaign delivery failures—**warranting further investigation**.
 
@@ -104,21 +104,21 @@ While Palisade Health benefits from a **high CTR, low CPC, and low Cost per Sign
 
 ## Claim Insights: 
 
-- **High-Claim Cost** – Compare Health Coverage: Recorded the **highest total claims at $3.9M**, with an average claim amount of **$410—53% higher than the overall average of $267**. Claims surged from $46K in 2019 to $1.7M in 2022 (36× growth), peaking in July 2022 before a sharp decline. Performance was driven by **Customer Testimonial campaigns**, which generated $2.9M total claims and the highest per-claim average ($499).
+- **High-Claim Cost – Compare Health Coverage**: Recorded the **highest total claims at $3.9M**, with an average claim amount of **$410—53% higher than the overall average of $267**. Claims surged from $46K in 2019 to $1.7M in 2022 (36× growth), peaking in July 2022 before a sharp decline. The high-claim cost was driven by **Customer Testimonial campaigns**, which generated $2.9M total claims and the highest per-claim average ($499).
 
-- **High-Claim Efficiency** – Tailored Health Coverage: Had the **lowest average claim amount at $209**, ranging from $181 in 2020 to $223 in 2022. Within this category, **Offer Announcement campaigns had the lowest per-claim average at $195**.
+- **High-Claim Efficiency – Tailored Health Coverage**: Had the **lowest average claim amount at $209**, ranging from $181 in 2020 to $223 in 2022. Within this category, **Offer Announcement campaigns** had the lowest per-claim average at $195.
 
-- **Negative Growth** – Benefit Updates: The only category with **negative YoY growth in total claim amount (-4.3%)** versus the overall average growth of 62%. Decline was primarily driven by Product Promotion campaigns, which averaged -14.5% YoY growth in claims.
+- **Negative Growth – Benefit Updates**: The only category with **negative YoY growth in total claim amount (-4.3%)** versus the overall average growth of 62%. Decline was primarily driven by Product Promotion campaigns, which averaged -14.5% YoY growth in claims.
 
 
 # Recommendations
 Recommendations focus on two strategies: removing ineffective campaigns and reallocating budget towards categories with better performance across north star metrics.
 
-- **Boost Awareness:** Reallocate budget from **Compare Health Coverage** (highest spend by category) to **Policy Information within Summer Wellness Tips Campaign**, which achieved the **lowest CPC** and drove **44K clicks and 290K impressions** for only $125 of campaign spend.
+- **Boost Awareness:** Reallocate budget from **Compare Health Coverage** (highest spend by category) to **Policy Information within Summer Wellness Tips Campaign**, which achieved the lowest CPC and drove 44K clicks and 290K impressions for only $125 of campaign spend.
 
 - **Health for All:** Shift budget from **Golden Years Security** (highest Cost per Signup at $124 and highest CPC at $0.48) to **Health For All**, which outperformed across **CTR, Signups, Signup Rate, and Cost per Signup**, yet received only 7% of campaign category spend from 2019-2023.
 
-- **Health Awareness:** Within Health for All campaigns, invest more in **Health Awareness marketing (49% CTR, 3.7% Signup Rate, $0.36 Cost per Signup)** and reduce spend on **Product Promotion (0% CTR, $3.18 Cost per Signup, only 1.6% of total signups)**.
+- **Health Awareness:** Within Health for All campaigns, invest more in **Health Awareness marketing** (49% CTR, 3.7% Signup Rate, $0.36 Cost per Signup) and reduce spend on **Product Promotion** (0% CTR, $3.18 Cost per Signup, only 1.6% of total signups).
 
 - **Family Coverage Plan:** This campaign category had **no clicks**, which may indicate data issues or a failure in campaign delivery—**further investigation is needed**.
 
